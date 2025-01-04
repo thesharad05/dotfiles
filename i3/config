@@ -42,6 +42,7 @@ bindsym $mod+space floating toggle
 bindsym $mod+q kill
 bindsym $mod+f fullscreen toggle
 bindsym $mod+s layout toggle split
+bindsym $mod+v splitv
 
 bindsym $mod+r reload
 bindsym $mod+Shift+r restart
