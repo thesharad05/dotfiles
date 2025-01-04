@@ -46,7 +46,7 @@ bindsym $mod+s layout toggle split
 bindsym $mod+r reload
 bindsym $mod+Shift+r restart
 
-bindsym Print exec scrot ~/Pictures/screenshot_%Y-%m-%d-%T.png
+bindsym Print exec scrot -c -q 50 ~/Pictures/screenshot_%Y-%m-%d-%T.png
 
 gaps inner 10
 gaps outer 10
