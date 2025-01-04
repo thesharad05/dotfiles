@@ -6,12 +6,10 @@ This repository provides configuration files for **Debian** 🐧, **i3wm** 🖥�
 
 ## 📂 Files:
 
-- `i3/config` - i3wm configuration file 🖥️
-- `polybar/config` - Polybar configuration file 📊
-- `picom.conf` - Picom configuration file 🎨
-- `install.sh` - Install script for dependencies and setup 📜
-- `README.md` - Documentation for the setup 📄
-- `screenshots/` - Folder containing screenshots 📸 (e.g., `i3wm-polybar-setup.png`)
+- `i3/config` - 🖥️ i3wm configuration file 
+- `polybar/config` - 📊 Polybar configuration file 
+- `picom.conf` - 🎨 Picom configuration file 
+- `install.sh` - 📜 Install script for dependencies and setup 
 
 ---
 
