@@ -64,6 +64,19 @@ bindsym $mod+r mode "resize"
 gaps inner 8
 gaps outer 8
 
+# Dracula Themed Colors
+set $bg-color #282a36
+set $fg-color #f8f8f2
+set $inactive-bg-color #44475a
+set $urgent-bg-color #ff5555
+set $urgent-border-color #ff5555
+set $focused-border-color #bd93f9
+
+client.focused $focused-border-color $bg-color $fg-color $focused-border-color
+client.focused_inactive $inactive-bg-color $bg-color $fg-color $inactive-bg-color
+client.unfocused $inactive-bg-color $bg-color $fg-color $inactive-bg-color
+client.urgent $urgent-bg-color $bg-color $fg-color $urgent-border-color
+
 exec --no-startup-id feh --bg-scale ~/Pictures/wall.jpg
 exec --no-startup-id nm-applet
 exec --no-startup-id pulseaudio --start
