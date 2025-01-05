@@ -6,7 +6,7 @@ configuration {
 
 /* Dracula Theme Colors */
 * {
-    font: "Fira Mono 14"; 
+    font: "Fira Mono 12"; 
     foreground: #f8f8f2;
     background-color: #282a36;
     active-background: #44475a;    
