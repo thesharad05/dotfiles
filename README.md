@@ -16,6 +16,10 @@ This repository provides configuration files for **Debian** 🐧, **i3wm** 🖥�
 ## 📸 Screenshot:
 
 - **i3wm + Polybar Setup**  
-     ![i3wm + Polybar Setup](https://github.com/user-attachments/assets/95adc5ab-bb46-4b5f-89b2-a9625af1c51d)
+
+  ![i3wm + Polybar Setup](https://github.com/user-attachments/assets/cb144504-32b7-4d40-a2e2-7a818a2c51b3)
+
+- **rofi**  
+
 
 ---
