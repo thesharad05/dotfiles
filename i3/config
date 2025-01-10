@@ -31,6 +31,7 @@ gaps outer 5
 bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 bindsym $mod+d exec rofi -show drun
+bindsym $mod+Shift+e exec ~/.config/rofi/powermenu.sh
 bindsym Print exec scrot -c -q 50 ~/Pictures/screenshot_%Y-%m-%d-%T.jpg
 
 # Focus Controls
