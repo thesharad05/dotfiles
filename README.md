@@ -12,6 +12,8 @@ Minimal configuration for **i3wm**, **Polybar**, **Picom**, and **Rofi** on **De
 - `config.rasi` - Rofi configuration file 🎨
 - `install.sh` - Install script for easy setup 📜
 
+[![Wallpaper 🌄 ](https://wallhaven.cc/w/kxy2wm)](https://wallhaven.cc/w/kxy2wm)  
+
 ---
 
 ## Screenshots 📸
