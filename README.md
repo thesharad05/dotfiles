@@ -20,9 +20,13 @@ Minimal configuration for **i3wm**, **Polybar**, **Picom**, and **Rofi** on **De
 ## Screenshots 📸
 
 ### i3wm + Polybar Setup  
-![i3wm + Polybar Setup](https://github.com/user-attachments/assets/ae065f9f-694c-4fcf-b0aa-146bfbd8e00c)
+![i3wm + Polybar Setup](https://github.com/user-attachments/assets/80bd7a91-c9b3-44ff-ae70-f67d2ec30241)
 
 ### Rofi  
-![Rofi](https://github.com/user-attachments/assets/d455d726-cad2-401b-99c9-f0e6dc77410f)
+![Rofi](https://github.com/user-attachments/assets/e8e155d3-93c7-4dde-97a4-2941e6f3c397)
+
+### Powermenu  
+![Powermenu](https://github.com/user-attachments/assets/72c8d224-df35-4c26-aafd-92bbca250119)
+
 
 ---
