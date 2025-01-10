@@ -6,13 +6,14 @@ Minimal configuration for **i3wm**, **Polybar**, **Picom**, and **Rofi** on **De
 
 ## Files 📁
 
-- `i3/config` - i3wm configuration file 🖥️
-- `polybar/config` - Polybar configuration file 📊
-- `picom.conf` - Picom configuration file 🌈
-- `config.rasi` - Rofi configuration file 🎨
-- `install.sh` - Install script for easy setup 📜
+- i3/config - i3wm configuration file 🖥️
+- polybar/config - Polybar configuration file 📊
+- picom.conf - Picom configuration file 🌈
+- config.rasi - Rofi configuration file 🎨
+- install.sh - Install script for easy setup 📜
+- powermenu.sh - Power menu script for Rofi 🔌
 
-[![Wallpaper 🌄 ](https://wallhaven.cc/w/kxy2wm)](https://wallhaven.cc/w/kxy2wm)  
+🌄 Wallpaper - https://wallhaven.cc/w/kxy2wm
 
 ---
 
