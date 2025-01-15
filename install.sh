@@ -14,6 +14,8 @@ echo "Installing essential system components..."
 sudo apt install -y xorg lightdm
 sudo apt install -y network-manager
 sudo apt install -y pulseaudio pavucontrol
+sudo apt install -y brightnessctl
+sudo apt install -y bluetooth blueman
 
 # Step 3: Core System Tools
 echo "Installing core system tools..."
@@ -70,13 +72,7 @@ sudo apt install -y aria2 yt-dlp
 sudo apt install -y qbittorrent
 
 # Step 11: Install FiraMono Nerd Font
-echo "Installing FiraMono Nerd Font..."
-FONT_URL="https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/FiraMono.zip"
-FONT_DIR="$HOME/.local/share/fonts"
-mkdir -p "$FONT_DIR"
-curl -L "$FONT_URL" -o FiraMono.zip
-unzip -q FiraMono.zip -d "$FONT_DIR"
-rm FiraMono.zip
+unzip -q FiraMono.zip `.local/share/fonts` and `use/share/fonts`
 
 # Step 12: Refresh Font Cache
 echo "Refreshing font cache..."
