@@ -28,7 +28,7 @@ dotfiles/
 - picom.conf - Picom configuration file 🌈
 - config.rasi - Rofi configuration file 🎨
 - install.sh - Install script for easy setup 📜
-- powermenu.sh - Power menu script for Rofi 🔌
+- powermenu.sh - Power menu script for Rofi 🔌 (needs to "chmod +x" made executable)
 
 🌄 Wallpaper - https://wallhaven.cc/w/kxy2wm
 
