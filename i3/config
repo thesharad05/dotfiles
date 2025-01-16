@@ -3,6 +3,10 @@ set $mod Mod4
 font pango:FiraMono Nerd Font 10
 floating_modifier $mod
 
+# hide window title bar
+default_border pixel 1
+default_floating_border pixel 1
+
 # Workspace Names
 set $ws1 "1"
 set $ws2 "2"
@@ -24,8 +28,8 @@ client.unfocused $inactive-bg-color $bg-color $fg-color $inactive-bg-color
 client.urgent $urgent-bg-color $bg-color $fg-color $urgent-border-color
 
 # Gaps Configuration
-# gaps inner 5
-# gaps outer 5
+gaps inner 5
+gaps outer 5
 
 # Basic Bindings
 bindsym $mod+Return exec alacritty
