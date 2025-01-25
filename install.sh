@@ -72,7 +72,7 @@ sudo apt install -y aria2 yt-dlp
 sudo apt install -y qbittorrent
 
 # Step 11: Install FiraMono Nerd Font
-unzip -q FiraMono.zip `.local/share/fonts` and `use/share/fonts`
+unzip -q FiraMono.zip `.local/share/fonts` and `usr/share/fonts`
 
 # Step 12: Refresh Font Cache
 echo "Refreshing font cache..."
